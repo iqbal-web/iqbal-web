@@ -1,5 +1,3 @@
-![Front End Developer](https://scontent.fdac148-1.fna.fbcdn.net/v/t39.30808-6/267472176_3091376631151491_7979639420892612614_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=8bfeb9&_nc_eui2=AeHHQvgGDMtar2hF1Zb0YCOUvdgbTIYqV5292BtMhipXnQy6box7gkWz8nTE3Op9eFiEFD7-RZZ3BYtladWty_ex&_nc_ohc=PZcYOgAHWz4AX-5vwB0&_nc_ht=scontent.fdac148-1.fna&oh=00_AT8E1YEQBMo_MKq9trRVDUEw5_OVgdb-f6O0bMWqV_XAhQ&oe=63537DDC)
-
 ### Hi there 👋,
 My name is Iqbal Hossain
 #### Front End Developer
