@@ -48,6 +48,9 @@
   <img src='https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white'>&nbsp;
   <img src='https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white'>&nbsp;
   <img src='https://img.shields.io/badge/Git-bf2c15?style=for-the-badge&logo=git&logoColor=white'>&nbsp;
+  <img src='https://img.shields.io/badge/php-8993be?style=for-the-badge&logo=php&logoColor=white'>&nbsp;
+  <img src='https://img.shields.io/badge/java-5382a1?style=for-the-badge&logo=java&logoColor=white'>&nbsp;
+  <img src='https://img.shields.io/badge/tailwindcss-22d3ee?style=for-the-badge&logo=tailwindcss&logoColor=white'>&nbsp;
   <img
     src='https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white'>&nbsp;
 </p>
