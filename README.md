@@ -11,7 +11,7 @@
       alt="iqbal-web" /></p>
   </p>
 
-  - 🔭 I’m currently working on [Elementskit](https://wpmet.com/plugin/elementskit) & [Gutenkit](https://wpmet.com/plugin/gutenkit) & [PopKit](https://wordpress.org/plugins/popup-builder-block/)
+  - 🔭 I’m currently working on [Elementskit](https://wpmet.com/plugin/elementskit) & [Gutenkit](https://wpmet.com/plugin/gutenkit) & [PopupKit](https://wordpress.org/plugins/popup-builder-block/)
 
   - 🌱 I’m currently learning **@wordpress/interactivity**
 
